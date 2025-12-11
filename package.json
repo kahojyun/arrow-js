@@ -40,7 +40,7 @@
     "jestconfigs",
     "test",
     "*.json",
-    "tsconfigs",
+    "tsconfig",
     "README.md",
     "gulpfile.js",
     "jest.config.js"
